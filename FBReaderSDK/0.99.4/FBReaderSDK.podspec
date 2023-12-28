@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "FBReaderSDK"
-    s.version      = "0.99.4"
+    s.version      = "0.99.8"
     s.summary      = "A framework for building ebook reader"
     s.description  = <<-DESC
 		This framework allows you to build own ebook reader based on FBReader code.
